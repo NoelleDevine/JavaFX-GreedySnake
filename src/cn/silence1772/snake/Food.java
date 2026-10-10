@@ -20,7 +20,7 @@ public class Food extends SObject {
 	public void init() {
 		
 		super.init();
-		
+		//this is my comment I don't really want to mess up this code
 		createRandomFood();
 		setWidth(SContants.MIN_X);
 		setHeight(SContants.MIN_Y);
